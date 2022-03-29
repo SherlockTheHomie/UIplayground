@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/UIplayground/static/css/main.cea3d849.css",
-    "main.js": "/UIplayground/static/js/main.ebd8a643.js",
+    "main.js": "/UIplayground/static/js/main.2a0282bf.js",
     "static/media/flower.png": "/UIplayground/static/media/flower.c09a472542225cd9378d.png",
     "static/media/texture2.png": "/UIplayground/static/media/texture2.7e6b81bfff72562d1735.png",
     "static/media/planet.jpg": "/UIplayground/static/media/planet.4aa3e31469c48cc8911d.jpg",
     "static/media/Header.png": "/UIplayground/static/media/Header.d2b8a15939b7ba8bb87b.png",
+    "static/media/owl.png": "/UIplayground/static/media/owl.c7b4147e85983de64e9e.png",
     "static/media/texture1.jpg": "/UIplayground/static/media/texture1.d1597680d6952571c863.jpg",
     "static/media/rain.jpg": "/UIplayground/static/media/rain.96db463fa57ac547e2f2.jpg",
     "static/media/background.jpg": "/UIplayground/static/media/background.6802d3b9a9427896ca8c.jpg",
     "static/media/about-visual.png": "/UIplayground/static/media/about-visual.e36c4c06e5c28a81b795.png",
     "index.html": "/UIplayground/index.html",
     "main.cea3d849.css.map": "/UIplayground/static/css/main.cea3d849.css.map",
-    "main.ebd8a643.js.map": "/UIplayground/static/js/main.ebd8a643.js.map"
+    "main.2a0282bf.js.map": "/UIplayground/static/js/main.2a0282bf.js.map"
   },
   "entrypoints": [
     "static/css/main.cea3d849.css",
-    "static/js/main.ebd8a643.js"
+    "static/js/main.2a0282bf.js"
   ]
 }
