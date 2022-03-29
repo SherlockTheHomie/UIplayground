@@ -20,6 +20,7 @@ import planet from './static/images/planet.jpg';
 import texture1 from './static/images/texture1.jpg';
 import texture2 from './static/images/texture2.png';
 import flower from './static/images/flower.png';
+import owl from './static/images/owl.png';
 
 import me from './static/images/Header.png';
 
@@ -198,14 +199,15 @@ export default function App() {
           </ParallaxLayer>
 
           <ParallaxLayer
-            offset={2}
-            speed={-0.3}
+            offset={3}
+            speed={-0.5}
             style={{
               backgroundSize: '80%',
               backgroundPosition: 'center',
-              backgroundImage: url('clients', true),
             }}
           >
+            <img src={owl} style={{ width: '20%', marginLeft: 100, marginTop: 400, opacity: 0.5 }} />
+            
 
           </ParallaxLayer>
 
